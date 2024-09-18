@@ -1,16 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="40220465-6b43-4d55-a363-10bb8e46f2b3" name="Changes" comment="" />
+    <list default="true" id="40220465-6b43-4d55-a363-10bb8e46f2b3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/convex-todos/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convex-todos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convex-todos/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convex-todos/next.config.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convex-todos/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convex-todos/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convex-todos/postcss.config.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convex-todos/src/app/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convex-todos/src/app/fonts/GeistMonoVF.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convex-todos/src/app/fonts/GeistVF.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convex-todos/src/app/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convex-todos/src/app/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convex-todos/src/app/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convex-todos/tailwind.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convex-todos/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 7
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2mFEztEuY5gmq3TkHNlYZ7XufhM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,6 +43,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -40,6 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1726664190653</updated>
       <workItem from="1726664192986" duration="180000" />
+      <workItem from="1726665060603" duration="1188000" />
     </task>
     <servers />
   </component>
